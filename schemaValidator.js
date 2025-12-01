@@ -18,13 +18,13 @@ const schema = {
             },
            
             required: ["city"],
-            additionalProperties: false
+            
         }
         
     },
     
     required: ["name", "active"],
-     additionalProperties: false
+    
 };
 // Input data
 const data = {
